@@ -9,10 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octoposh.Tests", "Octoposh.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Octoposh.Web", "Octoposh.Web\Octoposh.Web.csproj", "{D8810330-2882-44A5-8E42-05CC94A99C7C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebJobs", "WebJobs", "{660AF06E-707E-4F58-A68B-97F373AC74BE}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DownloadsTracker", "DownloadsTracker\DownloadsTracker.csproj", "{2C391B33-72F9-4C1D-8E42-B60DCA6FA3F0}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Octoposh.TestDataGenerator", "Octoposh.TestDataGenerator\Octoposh.TestDataGenerator.csproj", "{5B3FE57E-B9AA-40E7-853B-D3C87860CD9D}"
 EndProject
 Global
