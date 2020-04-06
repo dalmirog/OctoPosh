@@ -1,6 +1,6 @@
 
 
-# Octoposh Post Mortem
+# Octoposh Module - Post Mortem
 
 Octoposh was a side project I worked on from 2015 to 2017. Back then I was working as a Technical Support Engineer @ Octopus Deploy and I was very passionate about Powershell and integrating apps using APIs. So I started building this PS Module that interacted with Octopus Deploy to automate some of the REST API actions that Octopus' customers were asking about the most.
 
