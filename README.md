@@ -13,7 +13,7 @@ Check our docs site to learn how to use each cmdlet and some other avanced usage
 
 http://octoposh.readthedocs.io
 
-## Questions y feature requests
+## Questions & feature requests
 If you want to request a cmdlet or a feature, or you just wanna ask how to do something with the module, drop by our Gitter channel and ask there:
 
 [![Join the chat at https://gitter.im/Dalmirog/OctoPosh](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Dalmirog/OctoPosh?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
